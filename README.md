@@ -1,0 +1,1 @@
+We add some experiments to illustrate the behavior of IPA and the Principal's epsilon greedy algorithm proposed in Dogan et al., Repeated Principal-Agent Games with Unobserved Agent Rewards and Perfect-Knowledge Agents, compared to the UCB baseline.
