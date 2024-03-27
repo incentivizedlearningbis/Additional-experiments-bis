@@ -1,1 +1,3 @@
 We add some experiments to illustrate the behavior of IPA and the Principal's epsilon greedy algorithm proposed in Dogan et al., Repeated Principal-Agent Games with Unobserved Agent Rewards and Perfect-Knowledge Agents, compared to the UCB baseline.
+
+On the captions, T is the horizon, K refers to the number of available actions, rewards_0_1 means that the rewards are considered in [0,1] and m is the experimental parameter that needs to be chosen in the Principal's epsilon greedy algorithm. The number of episodes/epochs defines the number of times each algorithm is run for T iterations. The curves represent the average and standard deviation accross all different episodes.
