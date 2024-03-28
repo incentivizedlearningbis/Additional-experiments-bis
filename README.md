@@ -11,4 +11,4 @@ List of the experiments:
 
 - another experiment with the same vectors $s$ and $\theta$, T=100000, m=300.
 
-- an expeiment with T=40000, m=100: linear behavior of the Principal's $\epsilon$-greedy algorithm and the same vectors $s$ and $\theta$ as in the paper.
+- an experiment with T=40000, m=100: linear behavior of the Principal's $\epsilon$-greedy algorithm and the same vectors $s$ and $\theta$ as in the paper.
